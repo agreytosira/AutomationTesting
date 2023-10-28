@@ -10,5 +10,8 @@
     "ecmaVersion": "latest",
     "sourceType": "module"
   },
-  "rules": {}
+  "rules": {
+    "semi": 0,
+    "no-extra-semi": 0
+  }
 }
