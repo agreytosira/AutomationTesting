@@ -12,6 +12,7 @@
   },
   "rules": {
     "semi": 0,
-    "no-extra-semi": 0
+    "no-extra-semi": 0,
+    "linebreak-style": 0
   }
 }
